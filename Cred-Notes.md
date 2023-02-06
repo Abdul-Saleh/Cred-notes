@@ -34,7 +34,8 @@
 	- High of day/ Low of day
 	- Precise high/low of a given move
 	- Whether price closed through a level or swing point
-![[76268207-japanese-candlestick-stock-forex-data-presentation-model-japan-candle-bearish-and-bullish-candlestic.webp]]
+![image](https://user-images.githubusercontent.com/33027308/217070815-7e4eb4d0-5558-4932-b261-f97f52d1ad32.png)
+
 
 ## Time Frames
 - The timeframe you choose dictates the time period that 1 candle represents 
