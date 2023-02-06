@@ -62,5 +62,5 @@
 
 
 
-# Again:  use Higher time Frames and Zoom out
+# Again: Use Higher time Frames and Zoom out
 
